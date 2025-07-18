@@ -1,0 +1,29 @@
+# CHANGELOG — Neo25 RGB Project
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/).
+
+---
+
+## [Unreleased]
+- Initial idea brainstorming for emoticon/emoji translator functionality
+- Set up GitLab and github repository and CI/CD pipeline with custom inputs
+
+---
+
+## [1.0.0] - 2025-07-16
+### Added
+- Completed Indoor Voice, Playback Speed, and Making Faces problems
+- Initialized Git repository structure and added `.gitlab-ci.yml`
+- Added custom LICENSE: Neo Edition based on MIT
+-  Created README with project overview and usage instructions
+
+---
+
+## [0.1.0] - 2025-07-01
+### Added
+-  Started experimenting with GitLab Codespaces and project setup
+- Troubleshooting configs and permissions in CI/CD pipeline
+- Set up basic Python environment for CS50 problem sets
+
