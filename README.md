@@ -1,6 +1,5 @@
-# neo25-rgb-project
-
-
+#notes and checklist as to know what to complete for neo25-rgb-project
+Make sure that everything or most is completed or be aware of what is needed for you to complete this project
 
 ## Getting started
 
