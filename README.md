@@ -45,5 +45,5 @@ We had our group call and honestly i enjoy my group and our performance manager 
 
 i've been having a hard time pushing my work from my me50 folder so i just saw it fit to just download the zip and upload it to this file since i can't push it or make it public and now i have to figure out the GitLab work that has to be uploaded here also so those are my challenges as of now because my me50 is connected to my CS50 on edx so when i check and submit,it does automatically👍🏾i just figured that my Git work is me creating a license for my neo25-rgb project and not some work i'll find in a folder and i have to code or solve(🤦🏾i mean that is what was required and i was busy on gitlab looking for a folder with demo and exercises)
 
-#Day 10
+# Day 10
 I feel so conflicted and I don't know what I did wrong😭my GitHub suggested that I should configure my repository and it has shown a red x on top and I don't know what is wrong with it. I'll figure it out tomorrow,how to delete and what not because I have been trying to rerun and debug my mistake🙆🏾‍♀️yoh,we truly live and we learn
