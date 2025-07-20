@@ -34,3 +34,4 @@ jobs:
     - name: Run tests
       run: |
         pytest
+git rm .github/workflows/python.py
