@@ -47,3 +47,6 @@ i've been having a hard time pushing my work from my me50 folder so i just saw i
 
 # Day 10
 I feel so conflicted and I don't know what I did wrong😭my GitHub suggested that I should configure my repository and it has shown a red x on top and I don't know what is wrong with it. I'll figure it out tomorrow,how to delete and what not because I have been trying to rerun and debug my mistake🙆🏾‍♀️yoh,we truly live and we learn. Yeah😂I managed to fix it💃🏾guess what using coding😌💃🏾
+
+# Day 11 -27
+I keep forgetting to add things here🙆🏾‍♀️my cohort have been tutoring us(those who don't have experience) and also sometimes it is challenging like you just need to close your laptop because it is giving you and error and you are frustrated. The mistake could be a simple error and you could be stuck on the same thing for days and you watch videos whilst trying to retain information. Honestly this is quite a ride sometimes and then it is rewarding. You'll do your research and go down a rabbit hole😩Honestly,I don't even know what or which week I'm on like am I behind or am I forward. I do like how this has consumed my time.
