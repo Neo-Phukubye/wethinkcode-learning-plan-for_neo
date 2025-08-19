@@ -50,3 +50,6 @@ I feel so conflicted and I don't know what I did wrong😭my GitHub suggested th
 
 # Day 11 -27
 I keep forgetting to add things here🙆🏾‍♀️my cohort have been tutoring us(those who don't have experience) and also sometimes it is challenging like you just need to close your laptop because it is giving you and error and you are frustrated. The mistake could be a simple error and you could be stuck on the same thing for days and you watch videos whilst trying to retain information. Honestly this is quite a ride sometimes and then it is rewarding. You'll do your research and go down a rabbit hole😩Honestly,I don't even know what or which week I'm on like am I behind or am I forward. I do like how this has consumed my time.
+
+# Day 28-32
+After the last meeting with my performance manager made me realise that i was not learning but rather just making sure that i complete the problems. I was not learning to retain what i was taught but complete because i wasn't balancing my work and taking breaks. i took a break and now my brain feels like i don't know much. My performance manager did tell me that i was creating a ticking time bomb for myself because i am bound to exhaust my brain because i couldn't take a breather. i have started from the beginning so i could retain info and actually learn. Busang is a great performance manager.
